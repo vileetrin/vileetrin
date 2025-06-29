@@ -1,6 +1,6 @@
 # Hi 👋 I'm Violetta Velykotrav
 
-## Junior Full-Stack developer 👨‍💻
+## Junior Frontend developer 👨‍💻
 
 I try to apply my knowledge and skills in development, practicing and working for results. I am in the process of learning new technologies and improve my skills everyday. Fast learner, responsible and always up for a challenge.🚀
 
